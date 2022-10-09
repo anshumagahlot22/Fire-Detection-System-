@@ -26,5 +26,5 @@ Install OpnCV: pip install opencv-python
 
 
 
-Execution
+Execution:
   python fire-detector.py

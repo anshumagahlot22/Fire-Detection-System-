@@ -7,6 +7,9 @@ This project provides a computer vision based technique for detecting fire and i
 TECHNOLOGIES:
 
 1.) Python
+
 2.) OpenCV
+
 3.) SMTPLIB
+
 4.) HSV color Algorithm
